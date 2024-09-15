@@ -1,7 +1,9 @@
 ## 💫 About Me
 
 👋 Hi, I’m **Haresh Prajapati**, a dedicated full-stack developer with extensive experience in delivering high-quality, secure applications. I have worked on large enterprise projects, adhering to **Agile methodology** to ensure collaboration and timely delivery. My ethos revolves around **best coding practices**, **code quality**, and **security** in software development.
+
 Let’s connect and create something amazing together!
+
 ---
 
 ## 💻 Tech Stack
