@@ -1,11 +1,7 @@
 ## 💫 About Me
 
-👋 Hi, I’m **Haresh Prajapati**, an IT professional with 11 years of experience in full-stack development. My expertise spans across various technologies, including CakePHP, Laravel, Angular, React, Next.js, JavaScript, and jQuery.
-
-I’ve had the privilege of working on large-scale enterprise projects, adhering to **Agile methodology** to ensure efficiency and collaboration. I am passionate about maintaining **best coding practices**, emphasizing **code quality**, and implementing **security measures** to deliver robust and secure applications.
-
-Let’s connect and build something extraordinary together!
-
+👋 Hi, I’m **Haresh Prajapati**, a dedicated full-stack developer with extensive experience in delivering high-quality, secure applications. I have worked on large enterprise projects, adhering to **Agile methodology** to ensure collaboration and timely delivery. My ethos revolves around **best coding practices**, **code quality**, and **security** in software development.
+Let’s connect and create something amazing together!
 ---
 
 ## 💻 Tech Stack
