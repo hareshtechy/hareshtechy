@@ -58,7 +58,7 @@ Let’s connect and create something amazing together!
 
 ### Project Management
 
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat) !
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
 
 ### Search/Analytics
 
