@@ -34,7 +34,7 @@ Let’s connect and create something amazing together!
 
 ### Code Quality/Analysis
 
-[SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=flat) ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=flat) ! ![SonarLint](https://img.shields.io/badge/-SonarLint-CB2027?logo=sonarlint&logoColor=white&style=flat)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=flat) ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=flat) ![SonarLint](https://img.shields.io/badge/-SonarLint-CB2027?logo=sonarlint&logoColor=white&style=flat)
 
 ### Communication/Integration
 
